@@ -233,7 +233,6 @@ fabric.properties
 
 assets/temp
 assets/backgrounds
-/.vscode
 out
 .DS_Store
 .setup-done-before
@@ -246,3 +245,7 @@ video_creation/data/envvars.txt
 
 config.toml
 *.exe
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
