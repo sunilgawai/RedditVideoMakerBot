@@ -245,7 +245,3 @@ video_creation/data/envvars.txt
 
 config.toml
 *.exe
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
-branch_structure.json
